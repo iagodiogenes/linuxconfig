@@ -1,0 +1,1 @@
+alias superpc="ssh -p 4422 iddrego@sc2.npad.ufrn.br"
